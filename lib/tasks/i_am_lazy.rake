@@ -43,4 +43,4 @@ task(:sample_contacts => :environment) do
   x.save
 end
 
-yes hello
+# yes hello
